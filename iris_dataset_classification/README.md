@@ -16,3 +16,19 @@ The dataset consists of **3 classes** of **50 instances** each, where each class
 
 🔗 **Download Link**: [Kaggle - Iris Dataset](https://www.kaggle.com/uciml/iris)
 
+---
+
+#### 🧰 Libraries Used
+
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+
+#### 🤖 Algorithms Implemented
+
+- Logistic Regression  
+- K-Nearest Neighbors (KNN)  
+- Decision Tree
+
+✅ **Best Model Accuracy:** `100.00%`
